@@ -1,0 +1,19 @@
+# .NET build folders
+bin/
+obj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Executables
+*.exe
+*.dll
+*.pdb
+
+# Publish output
+publish/
+
+# OS files
+.DS_Store
+Thumbs.db
